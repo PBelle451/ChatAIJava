@@ -1,0 +1,11 @@
+spring:
+    security:
+        user:
+            name: user
+            password: root
+server:
+    port: 8080
+
+openai:
+    api:
+        key: [YOUR_API_KEY]
